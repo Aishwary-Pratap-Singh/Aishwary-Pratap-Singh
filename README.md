@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me aishwarypsingh@gmail.com
+- Skills - Spring boot, Angular
+- Full stack
 
 <!---
 Aishwary-Pratap-Singh/Aishwary-Pratap-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
