@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aishwary-Pratap-Singh
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Advance Java
-- 💞️ I’m looking to collaborate on Web development
+- 💞️ I’m looking to collaborate on Java-Security.
 - 📫 How to reach me aishwarypsingh@gmail.com
 - Skills - Spring boot, Angular
 - Full stack
