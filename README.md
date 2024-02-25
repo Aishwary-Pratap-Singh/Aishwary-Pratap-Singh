@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aishwary-Pratap-Singh
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Advance Java
-- 💞️ I’m looking to collaborate on Spring-Security, Flask.
+- 🌱 I’m currently learning Generative AI.
+- 💞️ I’m looking to collaborate on Django, Flask, Langchain.
 - 📫 How to reach me aishwarypsingh@gmail.com
 - Skills - Langchain, Prompt Engineering, Open AI, Django, Flask, Spring boot, Angular, Machine Learning.
 - Databases - Vector DB's : [Milvus, Pinecone], SQL DB's : [Mysql, Postgres], NO-SQL DB's : [Cosmos DB, Mongo DB].
